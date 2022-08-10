@@ -1,0 +1,39 @@
+
+.titleimage{
+  width:100%;
+  text-align: center;
+
+}
+.titleimage img{
+  width:70%;
+  margin:15px 0px;
+}
+
+.mainnav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #333;
+  height:50px;
+  align-items: center;
+  padding-right: 20px;
+  padding-left: 30px;
+  
+}
+.listtext a{
+  text-decoration: none;
+  padding: 14px 16px;
+  color: white;
+  padding: 12px 15px;
+}
+#login{
+  display: flex;
+  background-color: #04AA6D;
+  border: 5px;
+  height: 100%;
+  
+}
+#login:hover a{
+  background-color:rgb(137, 141, 144);
+  color:#333;
+}
