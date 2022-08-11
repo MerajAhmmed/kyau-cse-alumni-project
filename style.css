@@ -37,7 +37,7 @@
   background-color:rgb(137, 141, 144);
   color:#333;
 }
-img {
+.logo img {
   width:200px;
   height: 200px;
   border-radius: 50%;
