@@ -1,4 +1,5 @@
 <?php
+
  echo "<link rel='stylesheet' type='text/css' href='style.css'>";
 ?>
 
@@ -30,10 +31,15 @@
                         <input type="checkbox" name="checkbox" id="checkbox">Remember me
                     </div>
                     <div>
-                        <button type="submit" class="submitbtn">Login</button>
+                        <button type="submit" class="submitbtn" >Login</button>
+                    </div>
+                    <div>
+                        <p>Don't have an account <a href="./index.php">Register</a></p>
                     </div>
                 </form>
             </div>
         </div>
     </div>
 </section>
+
+
