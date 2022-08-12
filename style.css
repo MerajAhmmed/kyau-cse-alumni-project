@@ -83,3 +83,9 @@ input{
   display: flex;
   flex-direction: column;
 }
+
+
+
+.registration-input form div input{
+    padding: 5px;
+}
