@@ -1,7 +1,7 @@
-
+<!-- 
 <?php
-echo "<link href='https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css' rel='stylesheet' integrity='sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx' crossorigin='anonymous' >";
-echo "<link rel='stylesheet' type='text/css' href='style.css'>";
+  echo "<link href='https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css' rel='stylesheet' integrity='sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx' crossorigin='anonymous' >";
+  echo "<link rel='stylesheet' type='text/css' href='style.css'>";
 ?>
 
 
@@ -28,4 +28,4 @@ echo "<script src='https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstra
 ?>
 </body>
 
-</html>
+</html> -->
